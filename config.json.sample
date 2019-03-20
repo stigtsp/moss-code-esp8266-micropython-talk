@@ -1,0 +1,14 @@
+{
+    "wifi": {
+        "ssid" : "changeme",
+        "psk"  : "changeme"
+    },
+    "mqtt": {
+        "server"     : "ch.ange.me",
+        "port"       : 8883,
+        "ssl"        : true,
+        "password"   : "changem3",
+        "user"       : "changeme"
+        "topic_prefix": "my-sensors/"
+    }
+}
