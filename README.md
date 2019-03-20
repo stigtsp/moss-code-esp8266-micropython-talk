@@ -1,6 +1,6 @@
-# ESP8266 + Micropython
+# ESP8266 + MicroPython
 
-Slides and examples from the Moss Code ESP8266+Micropython Talk.
+Slides and examples from the Moss Code ESP8266+MicroPython Talk.
 
 I recommend using ampy to upload code and files to the ESP, you can install it with 
 
