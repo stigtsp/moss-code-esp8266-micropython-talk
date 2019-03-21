@@ -9,7 +9,7 @@ I recommend using ampy to upload code and files to the ESP, you can install it w
 To set up `lys.py` do the following:
 
 * Create your own `config.json` (see config.json.sample for reference)
-* Set up an MQTT server (with TLS/SSL to avoid contributing to the Internet of Sh#t)
+* Set up an MQTT server (with TLS/SSL)
 * Set your USB serial device in `Makefile`
 * Type `make` to copy the files over to the ESP
 
